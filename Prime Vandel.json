@@ -1,0 +1,98 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Body Replace",
+          "replace_ids": [
+            12613284036
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/prime-vandel/raw/refs/heads/main/prime%20vandal%20body.obj"
+        },
+        {
+          "name": "Mag Replace",
+          "replace_ids": [
+            12613284529
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/prime-vandel/raw/refs/heads/main/prime%20vandal%20mag.obj"
+        },
+        {
+          "name": "Bolt Replace",
+          "replace_ids": [
+            12613283355
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/prime-vandel/raw/refs/heads/main/prime%20vandal%20bolt.obj"
+        },
+        {
+          "name": "Upper Replace",
+          "replace_ids": [
+            12613284249
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/prime-vandel/raw/refs/heads/main/prime%20vandal%20bits.obj"
+        },
+        {
+          "name": "Hide Extra",
+          "replace_ids": [
+            12613284768,
+            12613283569,
+            14652718299
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sound",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Shoot Replace",
+          "replace_ids": [
+            13087362838
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/prime-vandel/raw/refs/heads/main/vandal.mp3"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace 2",
+          "replace_ids": [
+            13197584241
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/prime-vandel/blob/main/prime%20rifle%20thumbnail%202.png?raw=true"
+        },
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            17160682738
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/prime-vandel/blob/main/prime%20rifle%20thumbnail.png?raw=true"
+        }
+      ]
+    }
+  ]
+}
